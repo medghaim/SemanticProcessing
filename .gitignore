@@ -1,0 +1,7 @@
+build*
+Libraries*
+nbproject*
+data.search
+manifest.mf
+*/.svn/*
+.svn
